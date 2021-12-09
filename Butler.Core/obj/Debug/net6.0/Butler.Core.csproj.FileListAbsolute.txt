@@ -1,0 +1,12 @@
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\bin\Debug\net6.0\Butler.Core.deps.json
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\bin\Debug\net6.0\Butler.Core.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\bin\Debug\net6.0\ref\Butler.Core.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\bin\Debug\net6.0\Butler.Core.pdb
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\Butler.Core.csproj.AssemblyReference.cache
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\Butler.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\Butler.Core.AssemblyInfoInputs.cache
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\Butler.Core.AssemblyInfo.cs
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\Butler.Core.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\Butler.Core.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\ref\Butler.Core.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Core\obj\Debug\net6.0\Butler.Core.pdb

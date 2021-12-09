@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Api\\Butler.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Api\\Butler.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Api\\Butler.Api.csproj",
+        "projectName": "Butler.Api",
+        "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Api\\Butler.Api.csproj",
+        "packagesPath": "C:\\Users\\jrat01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrat01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\itdev\\sites\\NugetPackages": {},
+          "\\\\itdev\\sites\\NugetPackages_TEST": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\Butler.Aplication.csproj": {
+                "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\Butler.Aplication.csproj"
+              },
+              "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Infrastructure\\Butler.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Infrastructure\\Butler.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\Butler.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\Butler.Aplication.csproj",
+        "projectName": "Butler.Aplication",
+        "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\Butler.Aplication.csproj",
+        "packagesPath": "C:\\Users\\jrat01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrat01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\itdev\\sites\\NugetPackages": {},
+          "\\\\itdev\\sites\\NugetPackages_TEST": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Core\\Butler.Core.csproj": {
+                "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Core\\Butler.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Core\\Butler.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Core\\Butler.Core.csproj",
+        "projectName": "Butler.Core",
+        "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Core\\Butler.Core.csproj",
+        "packagesPath": "C:\\Users\\jrat01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrat01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\itdev\\sites\\NugetPackages": {},
+          "\\\\itdev\\sites\\NugetPackages_TEST": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Infrastructure\\Butler.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Infrastructure\\Butler.Infrastructure.csproj",
+        "projectName": "Butler.Infrastructure",
+        "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Infrastructure\\Butler.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jrat01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrat01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\itdev\\sites\\NugetPackages": {},
+          "\\\\itdev\\sites\\NugetPackages_TEST": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\Butler.Aplication.csproj": {
+                "projectPath": "C:\\Users\\jrat01\\Desktop\\EXTERNALS\\BUTLER\\Butler.Api\\Butler.Aplication\\Butler.Aplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

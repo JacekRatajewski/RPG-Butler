@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "822a17fb-0519-4e42-9db3-2ce61d20b755": {
+      "ProjectGuid": "822a17fb-0519-4e42-9db3-2ce61d20b755",
+      "DisplayName": "Butler.Core",
+      "ColorIndex": 0
+    },
+    "1710a6a1-9fd8-405c-b89a-c22f88277689": {
+      "ProjectGuid": "1710a6a1-9fd8-405c-b89a-c22f88277689",
+      "DisplayName": "Butler.Aplication",
+      "ColorIndex": 1
+    },
+    "1d5ecd8f-62ff-4ee3-9a81-5316b4efd3d6": {
+      "ProjectGuid": "1d5ecd8f-62ff-4ee3-9a81-5316b4efd3d6",
+      "DisplayName": "Butler.Api",
+      "ColorIndex": 2
+    },
+    "f8e935ba-122c-4f24-8c8d-0c392452a7e8": {
+      "ProjectGuid": "f8e935ba-122c-4f24-8c8d-0c392452a7e8",
+      "DisplayName": "Butler.Infrastructure",
+      "ColorIndex": 3
+    },
+    "ceef0310-ee0b-4838-89fa-d7c87f055325": {
+      "ProjectGuid": "ceef0310-ee0b-4838-89fa-d7c87f055325",
+      "DisplayName": "Butler.Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,17 @@
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\Butler.Infrastructure.deps.json
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\Butler.Infrastructure.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\ref\Butler.Infrastructure.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\Butler.Infrastructure.pdb
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.AssemblyInfo.cs
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\ref\Butler.Infrastructure.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.pdb
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\Butler.Aplication.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\Butler.Core.dll
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\Butler.Aplication.pdb
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\bin\Debug\net6.0\Butler.Core.pdb
+C:\Users\jrat01\Desktop\EXTERNALS\BUTLER\Butler.Api\Butler.Infrastructure\obj\Debug\net6.0\Butler.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m0r24b5Td/zTrPW9tEezpocZnaXEYmJlKnLnsokQJJI=",
+  "Source": "Butler.Api",
+  "BasePath": "_content/Butler.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
